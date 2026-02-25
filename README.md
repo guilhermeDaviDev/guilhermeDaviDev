@@ -19,7 +19,7 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
     <img src="https://img.shields.io/badge/Instagram-@guilhermeDavi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/guilherme-davi">
+  <a href="https://www.linkedin.com/in/guilherme-d-2855003b3/">
     <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Davi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
