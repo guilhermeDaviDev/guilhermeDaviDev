@@ -53,6 +53,11 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhrmeDaviDev/guilhermeDaviDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeDaviDev/guilhermeDaviDev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermeDaviDev/guilhermeDaviDev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📊 GitHub Stats
 
