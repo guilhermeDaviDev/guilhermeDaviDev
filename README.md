@@ -1,6 +1,7 @@
 # Olá 👋, eu sou Guilherme Davi
 
 🚀 **Desenvolvedor JavaScript | Automações | Integrações**
+
 🇧🇷 Brasil
 
 Crio **automações com N8N**, integrações entre **APIs** e aplicações web.  
