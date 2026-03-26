@@ -16,7 +16,7 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
     <img src="https://img.shields.io/badge/GitHub-guilhermeDaviDev-181717?style=for-the-badge&logo=github" />
   </a>
   <br>
-  <a href="https://instagram.com/gui.kjkjk">
+  <a href="https://www.instagram.com/guilhermedavidev/">
     <img src="https://img.shields.io/badge/Instagram-@guilhermeDavi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
