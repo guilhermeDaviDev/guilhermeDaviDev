@@ -49,7 +49,7 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### Ferramentas
-![CRM](https://img.shields.io/badge/CRM-161414style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-Kommo-6c2099?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-161414?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-161414?style=for-the-badge&logo=figma)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
