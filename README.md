@@ -1,6 +1,6 @@
-# Olá 👋, eu sou Guilherme Davi
+# Olá , eu sou Guilherme Davi
 
-🚀 **Desenvolvedor JavaScript | Automações | Integrações**
+ **Desenvolvedor JavaScript | Automações | Integrações**
 
 🇧🇷 Brasil
 
@@ -9,7 +9,7 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
 
 ---
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/guilhermeDaviDev">
@@ -27,7 +27,7 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
 
 ---
 
-## 🧠 O que eu faço
+##  O que eu faço
 
 - 💻 Desenvolvimento de websites e aplicações web
 - 🤖 Automações com N8N
@@ -36,7 +36,7 @@ Estudo e aplico conceitos de **funil de vendas**, qualificação e análise de *
 
 ---
 
-## 🛠️ Stack de Tecnologias
+##  Stack de Tecnologias
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
